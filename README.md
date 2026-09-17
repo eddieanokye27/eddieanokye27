@@ -1,4 +1,4 @@
-# Howdy
+## Howdy 🙌
 
 ### Software Engineer building applied AI products and backend systems.
 
