@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Eddie ✌️
 
-<!--
-**eddieanokye27/eddieanokye27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer building applied AI products and backend systems.
 
-Here are some ideas to get you started:
+I'm an **AI/ML–focused Computer Science student at Carleton University**, graduating in **December 2026**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Barracuda Networks:** Made significant contributions to backend and observability systems for new AI-powered security platform adopted by **12,000+ enterprise customers** shortly after launch.
+- **Canada Border Services Agency:** Built internal tooling for tracking and managing liaison officer activities.
+
+I'm interested in **ML systems, AI product engineering, and backend infrastructure**. Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddieanokye)
+[![Email](https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eddieanokye27@gmail.com)
