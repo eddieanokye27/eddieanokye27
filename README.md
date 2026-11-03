@@ -2,7 +2,7 @@
 
 ### Software Engineer building applied AI products and backend systems.
 
-I'm Eddie! CS student at **Carleton University**, with a degree specialization in **AI/ML** and graduating in **December 2026**.
+I'm Eddie! CS student at **Carleton University**, with a degree specialization in **AI/ML**. I expect to complete all degree requirements by **December 2026**, with official degree conferral in February 2027.
 
 - **Barracuda Networks:** Made significant contributions to backend and observability systems for new AI-powered security platform adopted by **12,000+ enterprise customers** shortly after launch.
 - **Canada Border Services Agency:** Built internal tooling for tracking and managing liaison officer activities.
